@@ -1,6 +1,6 @@
 # @/components/Pagination
 
-[Source](https://github.com/xizon/matrixflip-official-website/tree/main/src/client/components/Pagination)
+[Source](https://github.com/echandsome/matrixflip-official-website/tree/main/src/client/components/Pagination)
 
 ## Version
 
